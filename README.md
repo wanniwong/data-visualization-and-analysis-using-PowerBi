@@ -6,7 +6,7 @@ PowerBI is extensively used throughout the four phases of project.
 
 (1) Data ingestion - Datasets are obtained from Vaccine Adverse Event Reporting System at https://vaers.hhs.gov/data.html, and Wikipedia at https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations
 
-(2) ETL - Power Query Editor is used for data cleaning, handling of missing data, and feature engineering
+(2) ETL - Power Query Editor for data cleaning, handling of missing data, and feature engineering
 
 (3) Dashboard development - PowerBI to gain insights from datasets (Please refer [**dashboard.pdf**](dashboard.pdf))
 
