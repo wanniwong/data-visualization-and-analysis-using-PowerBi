@@ -1,4 +1,4 @@
-# Analysis of Trends in COVID-19 Vaccine Adverse Events
+# Visualization for Trend Analysis of COVID-19 Vaccine Adverse Event using Power BI
 
 The impact of COVID-19 outbreak on every corner of life is deleterious. To control the pandemic, scientists around the world have worked together to research and develop vaccines. However, there are people concerning about the risks of vaccination especially when blood clotting has been reported as one of the rare serious side effects. Therefore, this project aims to generate a dashboard that analyzes the trends in adverse effects of COVID-19 vaccine. A dashboard can help professionals to monitor adverse events, detect new and rare reactions, as well as identify potential risk factors for certain types of symptoms. Meanwhile, for public, it can help improve public confidence of vaccine and eventually increase the vaccine registration rate.
 
